@@ -27,3 +27,6 @@
 
 ## Portfolio Output
 - Lab reports + memo in `portfolio/`.
+
+### Weekly Assignments
+See the 10-week sequence: [/assignments/sequences/physics-1-mechanics/README.md](/assignments/sequences/physics-1-mechanics/README.md)
