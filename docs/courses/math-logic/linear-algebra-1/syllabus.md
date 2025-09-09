@@ -29,3 +29,6 @@
 
 ## Portfolio Output
 - Project report + notebook.
+
+### Weekly Assignments
+See the 10-week sequence: [/assignments/sequences/linear-algebra-1/README.md](/assignments/sequences/linear-algebra-1/README.md)
