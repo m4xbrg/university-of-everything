@@ -6,9 +6,8 @@ theme:
   name: material
   custom_dir: overrides
   features:
-    - navigation.expand
     - navigation.sections
-    - toc.integrate
+    - navigation.indexes
     - content.code.copy
     - search.suggest
     - search.highlight
@@ -22,11 +21,11 @@ markdown_extensions:
   - toc:
       permalink: true
   - footnotes
-  - pymdownx.arithmatex:
-      generic: true
   - pymdownx.details
   - pymdownx.tabbed
   - pymdownx.tasklist
+  - pymdownx.arithmatex:
+      generic: true
 
 extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
@@ -37,16 +36,12 @@ extra_css:
 plugins:
   - search:
       prebuild_index: true
+  - sitemap:
+      changefreq: weekly
+      priority: 0.5
 
 nav:
   - Home: index.md
-  - About:
-    - Vision: about/vision.md
-  - Handbook:
-    - Program Structure: handbook/structure.md
-    - Workload Philosophy: handbook/workload-philosophy.md
-    - Assessment Standards: handbook/assessment-standards.md
-    - Portfolio Guide: handbook/portfolio-guide.md
   - Pillars:
     - Math & Logic: indexes/math-logic.md
     - Science & Engineering: indexes/science-engineering.md
@@ -56,6 +51,14 @@ nav:
     - Capstones: indexes/capstones.md
   - Assignments:
     - Overview: assignments/README.md
+    - Sequences:
+      - Calculus I (10 weeks): assignments/sequences/calculus-1/README.md
+      - Physics I: Mechanics (10 weeks): assignments/sequences/physics-1-mechanics/README.md
+      - Strategy I (10 weeks): assignments/sequences/strategy-1-competitive-advantage/README.md
+      - Control Systems (10 weeks): assignments/sequences/ece-3-control-systems/README.md
+      - Linear Algebra I (10 weeks): assignments/sequences/linear-algebra-1/README.md
+      - Multivariable Calculus (10 weeks): assignments/sequences/multivariable-calculus/README.md
+      - Energy Systems I (10 weeks): assignments/sequences/energy-systems-1/README.md
     - Banks:
       - Math — Calculus: assignments/banks/math-calculus/
       - Linear Algebra: assignments/banks/linear-algebra/
@@ -67,3 +70,13 @@ nav:
       - CS: assignments/banks/cs/
       - Business: assignments/banks/business/
       - Law & Policy: assignments/banks/law/
+  - Rubrics:
+    - Problem Set: rubrics/problem-set-rubric.md
+    - Lab Report: rubrics/lab-rubric.md
+    - Engineering Project: rubrics/project-rubric-engineering.md
+    - Case Study: rubrics/case-study-rubric.md
+    - Presentation: rubrics/presentation-rubric.md
+    - Essay: rubrics/essay-rubric.md
+  - Advisors:
+    - Pathways: advisors/pathways.md
+  - Changelog: changelog.md

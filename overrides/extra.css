@@ -3,9 +3,14 @@
 .tile .emoji { font-size: 32px; }
 .tile .title { font-size: 18px; font-weight: 700; margin-top: 8px; }
 .tile .desc { font-size: 14px; opacity: 0.8; margin-top: 6px; }
-.tile.math { border-left: 6px solid #3b82f6; }        /* blue */
-.tile.science { border-left: 6px solid #ef4444; }     /* red */
-.tile.business { border-left: 6px solid #10b981; }    /* green */
-.tile.humanities { border-left: 6px solid #8b5cf6; }  /* purple */
-.tile.life { border-left: 6px solid #f59e0b; }        /* yellow */
-.tile.capstones { border-left: 6px solid #6b7280; }   /* gray */
+.tile.math { border-left: 6px solid #3b82f6; }
+.tile.science { border-left: 6px solid #ef4444; }
+.tile.business { border-left: 6px solid #10b981; }
+.tile.humanities { border-left: 6px solid #8b5cf6; }
+.tile.life { border-left: 6px solid #f59e0b; }
+.tile.capstones { border-left: 6px solid #6b7280; }
+
+.badge{display:inline-block;padding:2px 8px;border-radius:10px;font-size:12px}
+.badge.green{background:#10b98120;border:1px solid #10b981}
+.badge.amber{background:#f59e0b20;border:1px solid #f59e0b}
+.badge.blue{background:#3b82f620;border:1px solid #3b82f6}
