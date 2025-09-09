@@ -1,29 +1,29 @@
 # Numerical Methods
 **Pillar:** Math & Logic  
-**Purpose:** Compute approximate solutions to models when closed-form answers don’t exist.
+**Purpose:** Computational methods for solving mathematical problems approximately.
 
 ## Learning Outcomes
-1. Implement root-finding, interpolation, and numerical integration.
-2. Solve linear systems numerically; understand conditioning.
-3. Integrate ODEs numerically (Euler, RK methods).
-4. Analyze error, stability, and convergence.
+1. Implement root-finding algorithms (bisection, Newton-Raphson).
+2. Apply numerical integration and differentiation.
+3. Solve systems of equations using iterative methods.
+4. Use numerical techniques for ODEs and PDEs.
 
 ## Modules & Weekly Topics
-1. **Root Finding** — bisection, Newton; stopping criteria.
-2. **Linear Systems** — Gaussian elimination; LU; conditioning & error.
-3. **Interpolation & Quadrature** — polynomials; Simpson/Trap.
-4. **ODE Solvers** — Euler, Runge–Kutta; step-size control.
-5. **Floating-Point & Stability** — machine epsilon; round-off.
-6. **Integration** — mini-capstone: solver showdown for a model problem.
+1. **Error Analysis** — sources, propagation.
+2. **Root Finding** — bisection, secant, Newton methods.
+3. **Numerical Linear Algebra** — iterative solvers.
+4. **Numerical Differentiation & Integration** — trapezoidal, Simpson’s.
+5. **ODEs & PDEs** — Euler, Runge-Kutta, finite differences.
+6. **Integration Project** — numerical simulation project.
 
 ## Resources
-- **Primary:** Sauer, *Numerical Analysis*.
-- **Tooling:** Python (NumPy/SciPy), Jupyter.
+- **Primary:** Chapra & Canale, *Numerical Methods for Engineers*.
+- **Tooling:** Python (NumPy, SciPy).
 
 ## Assignments & Evaluation
-- **Problem Sets:** 5 computational sets.
-- **Project:** Numerical experiment with code + write-up.
-- **Integration:** Why the chosen method is appropriate; risks.
+- **Problem Sets:** 6 coding sets.
+- **Project:** Simulation using numerical methods.
+- **Integration:** Reflection memo.
 - **Weighting:** PS 50%, Project 40%, Integration 10%.
 
 ## Portfolio Output

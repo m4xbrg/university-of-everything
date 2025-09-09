@@ -1,32 +1,29 @@
 # Physics I: Mechanics
-
 **Pillar:** Science & Engineering  
-**Purpose:** This course builds core competence for analysis and decision-making across engineering, business, and civic contexts.
+**Purpose:** Foundation of forces, motion, and energy.
 
 ## Learning Outcomes
-1. Apply core concepts to solve authentic problems.
-2. Analyze and communicate results effectively.
-3. Use appropriate tools and representations (math, code, exhibits).
-4. Connect this subject to adjacent pillars and capstones.
+1. Apply Newton’s laws to particles and rigid bodies.
+2. Solve kinematics and dynamics problems.
+3. Use conservation of energy and momentum.
+4. Model simple harmonic motion.
 
 ## Modules & Weekly Topics
-1. **Foundations** — key ideas and definitions.
-2. **Core Techniques** — solving standard problems; practice to fluency.
-3. **Applications** — real-world scenarios for this subject.
-4. **Modeling & Interpretation** — assumptions, limits, sensitivity.
-5. **Extensions** — advanced or adjacent topics to explore.
-6. **Applications & Integration** — a small project tying theory to a real scenario.
+1. **Kinematics** — motion in 1D/2D.
+2. **Forces & Newton’s Laws** — free-body diagrams.
+3. **Work & Energy** — conservation principles.
+4. **Momentum** — collisions, impulse.
+5. **Rotation & Gravitation** — circular motion, orbits.
+6. **Integration Project** — applied mechanics case.
 
 ## Resources
-- **Primary Text:** A standard, high-quality text for the field.
-- **Supplemental:** Curated lectures and readings.
-- **Tooling:** Python (Jupyter), spreadsheets, and math tools as relevant.
+- **Primary:** Young & Freedman, *University Physics* Vol. 1.
 
 ## Assignments & Evaluation
-- **Problem Sets / Labs:** 5–8 sets; practice to fluency.
-- **Project / Case Study:** A short applied project/case.
-- **Integration Task:** Reflect on links to adjacent pillars (1 page).
-- **Weighting:** 50% problem sets, 30% project/case, 20% integration.
+- **Problem Sets:** 6 sets.
+- **Labs:** 2–3 writeups.
+- **Integration:** Reflection memo.
+- **Weighting:** PS 50%, Labs 40%, Integration 10%.
 
 ## Portfolio Output
-- Save final PDFs, code/notebooks, and slides in this course's `portfolio/` folder.
+- Lab reports + memo in `portfolio/`.
