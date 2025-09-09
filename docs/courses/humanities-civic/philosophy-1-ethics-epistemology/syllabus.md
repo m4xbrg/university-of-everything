@@ -1,32 +1,30 @@
 # Philosophy I: Ethics & Epistemology
-
 **Pillar:** Humanities & Civic  
-**Purpose:** This course builds core competence for analysis and decision-making across engineering, business, and civic contexts.
+**Purpose:** Explore ethical frameworks and theories of knowledge.
 
 ## Learning Outcomes
-1. Apply core concepts to solve authentic problems.
-2. Analyze and communicate results effectively.
-3. Use appropriate tools and representations (math, code, exhibits).
-4. Connect this subject to adjacent pillars and capstones.
+1. Compare utilitarian, deontological, and virtue ethics.
+2. Analyze key questions of knowledge, truth, and skepticism.
+3. Apply ethical frameworks to contemporary dilemmas.
+4. Develop skills in philosophical argumentation.
 
 ## Modules & Weekly Topics
-1. **Foundations** — key ideas and definitions.
-2. **Core Techniques** — solving standard problems; practice to fluency.
-3. **Applications** — real-world scenarios for this subject.
-4. **Modeling & Interpretation** — assumptions, limits, sensitivity.
-5. **Extensions** — advanced or adjacent topics to explore.
-6. **Applications & Integration** — a small project tying theory to a real scenario.
+1. **Intro to Ethics** — utilitarianism, deontology, virtue ethics.
+2. **Applied Ethics** — bioethics, business ethics, tech ethics.
+3. **Epistemology Basics** — knowledge, justification, skepticism.
+4. **Truth & Belief** — correspondence, coherence, reliabilism.
+5. **Contemporary Debates** — AI ethics, climate justice.
+6. **Integration Project** — philosophical essay.
 
 ## Resources
-- **Primary Text:** A standard, high-quality text for the field.
-- **Supplemental:** Curated lectures and readings.
-- **Tooling:** Python (Jupyter), spreadsheets, and math tools as relevant.
+- **Primary:** Rachels, *The Elements of Moral Philosophy*; selections from Plato, Descartes, Kant.
+- **Tooling:** Essay writing tools.
 
 ## Assignments & Evaluation
-- **Problem Sets / Labs:** 5–8 sets; practice to fluency.
-- **Project / Case Study:** A short applied project/case.
-- **Integration Task:** Reflect on links to adjacent pillars (1 page).
-- **Weighting:** 50% problem sets, 30% project/case, 20% integration.
+- **Essays:** 3 (short-medium).
+- **Project:** Philosophical essay on ethics/epistemology.
+- **Integration:** Reflection on real-world application.
+- **Weighting:** Essays 50%, Project 40%, Integration 10%.
 
 ## Portfolio Output
-- Save final PDFs, code/notebooks, and slides in this course's `portfolio/` folder.
+- Essay in `portfolio/`.

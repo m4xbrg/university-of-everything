@@ -1,32 +1,30 @@
 # Logic & Proofs I
-
 **Pillar:** Math & Logic  
-**Purpose:** This course builds core competence for analysis and decision-making across engineering, business, and civic contexts.
+**Purpose:** Foundations of formal reasoning, proofs, and argument structure.
 
 ## Learning Outcomes
-1. Apply core concepts to solve authentic problems.
-2. Analyze and communicate results effectively.
-3. Use appropriate tools and representations (math, code, exhibits).
-4. Connect this subject to adjacent pillars and capstones.
+1. Use propositional and predicate logic to analyze statements.
+2. Apply rules of inference and proof techniques.
+3. Recognize valid vs invalid arguments.
+4. Construct rigorous mathematical proofs.
 
 ## Modules & Weekly Topics
-1. **Foundations** — key ideas and definitions.
-2. **Core Techniques** — solving standard problems; practice to fluency.
-3. **Applications** — real-world scenarios for this subject.
-4. **Modeling & Interpretation** — assumptions, limits, sensitivity.
-5. **Extensions** — advanced or adjacent topics to explore.
-6. **Applications & Integration** — a small project tying theory to a real scenario.
+1. **Logic Basics** — propositions, truth tables.
+2. **Predicate Logic** — quantifiers, equivalence.
+3. **Proof Techniques** — direct, contrapositive, contradiction.
+4. **Mathematical Induction** — weak/strong induction.
+5. **Set Theory Foundations** — sets, operations, functions.
+6. **Integration Project** — formal proof + essay on reasoning.
 
 ## Resources
-- **Primary Text:** A standard, high-quality text for the field.
-- **Supplemental:** Curated lectures and readings.
-- **Tooling:** Python (Jupyter), spreadsheets, and math tools as relevant.
+- **Primary:** Hammack, *Book of Proof* (open-source).
+- **Tooling:** LaTeX.
 
 ## Assignments & Evaluation
-- **Problem Sets / Labs:** 5–8 sets; practice to fluency.
-- **Project / Case Study:** A short applied project/case.
-- **Integration Task:** Reflect on links to adjacent pillars (1 page).
-- **Weighting:** 50% problem sets, 30% project/case, 20% integration.
+- **Problem Sets:** 5 sets.
+- **Project:** Formal proof writeup.
+- **Integration:** Essay connecting logic to consulting/engineering.
+- **Weighting:** PS 50%, Project 40%, Integration 10%.
 
 ## Portfolio Output
-- Save final PDFs, code/notebooks, and slides in this course's `portfolio/` folder.
+- Proof + essay in `portfolio/`.

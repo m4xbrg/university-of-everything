@@ -1,32 +1,30 @@
 # Calculus I
-
 **Pillar:** Math & Logic  
-**Purpose:** This course builds core competence for analysis and decision-making across engineering, business, and civic contexts.
+**Purpose:** Foundation of differential calculus for functions of one variable.
 
 ## Learning Outcomes
-1. Apply core concepts to solve authentic problems.
-2. Analyze and communicate results effectively.
-3. Use appropriate tools and representations (math, code, exhibits).
-4. Connect this subject to adjacent pillars and capstones.
+1. Understand limits, continuity, and derivatives.
+2. Apply differentiation rules to polynomials, exponentials, trig, and composites.
+3. Solve optimization and related rates problems.
+4. Interpret derivatives in physical, economic, and business contexts.
 
 ## Modules & Weekly Topics
-1. **Foundations** — key ideas and definitions.
-2. **Core Techniques** — solving standard problems; practice to fluency.
-3. **Applications** — real-world scenarios for this subject.
-4. **Modeling & Interpretation** — assumptions, limits, sensitivity.
-5. **Extensions** — advanced or adjacent topics to explore.
-6. **Applications & Integration** — a small project tying theory to a real scenario.
+1. **Preliminaries** — functions, limits, continuity.
+2. **Derivatives Basics** — definition, rules, product/quotient.
+3. **Chain Rule & Implicit Differentiation** — applications.
+4. **Applications** — related rates, optimization, curve sketching.
+5. **Exponentials & Logarithms** — derivatives, growth/decay.
+6. **Integration Project** — applied optimization/related rates case.
 
 ## Resources
-- **Primary Text:** A standard, high-quality text for the field.
-- **Supplemental:** Curated lectures and readings.
-- **Tooling:** Python (Jupyter), spreadsheets, and math tools as relevant.
+- **Primary:** Stewart, *Calculus: Early Transcendentals*, Ch. 1–4.
+- **Tooling:** Desmos, Jupyter (SymPy).
 
 ## Assignments & Evaluation
-- **Problem Sets / Labs:** 5–8 sets; practice to fluency.
-- **Project / Case Study:** A short applied project/case.
-- **Integration Task:** Reflect on links to adjacent pillars (1 page).
-- **Weighting:** 50% problem sets, 30% project/case, 20% integration.
+- **Problem Sets:** 6 sets (~180 problems).
+- **Project:** Applied problem (optimization or growth/decay).
+- **Integration:** Reflection on application in physics/econ.
+- **Weighting:** PS 60%, Project 30%, Integration 10%.
 
 ## Portfolio Output
-- Save final PDFs, code/notebooks, and slides in this course's `portfolio/` folder.
+- Project writeup in `portfolio/`.
