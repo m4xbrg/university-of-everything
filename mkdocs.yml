@@ -3,15 +3,15 @@ site_description: An integrated curriculum for systems thinkers, engineers, stra
 repo_url: https://github.com/YOUR-USER/university-of-everything
 theme:
   name: material
+  logo: _assets/images/logo.png
+  favicon: _assets/images/logo.png
   features:
     - navigation.expand
     - navigation.sections
     - toc.integrate
     - content.code.copy
-  palette:
-    - scheme: default
-      primary: indigo
-      accent: teal
+    - search.suggest
+    - search.highlight
 markdown_extensions:
   - admonition
   - toc:
