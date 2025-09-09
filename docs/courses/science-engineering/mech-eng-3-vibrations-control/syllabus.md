@@ -1,32 +1,30 @@
 # Mechanical Engineering III: Vibrations & Control
-
 **Pillar:** Science & Engineering  
-**Purpose:** This course builds core competence for analysis and decision-making across engineering, business, and civic contexts.
+**Purpose:** Analyze vibrations and basic control systems in mechanical structures.
 
 ## Learning Outcomes
-1. Apply core concepts to solve authentic problems.
-2. Analyze and communicate results effectively.
-3. Use appropriate tools and representations (math, code, exhibits).
-4. Connect this subject to adjacent pillars and capstones.
+1. Solve single and multi-degree-of-freedom vibration problems.
+2. Model damping and resonance effects.
+3. Apply transfer functions to simple control systems.
+4. Evaluate stability with frequency response methods.
 
 ## Modules & Weekly Topics
-1. **Foundations** — key ideas and definitions.
-2. **Core Techniques** — solving standard problems; practice to fluency.
-3. **Applications** — real-world scenarios for this subject.
-4. **Modeling & Interpretation** — assumptions, limits, sensitivity.
-5. **Extensions** — advanced or adjacent topics to explore.
-6. **Applications & Integration** — a small project tying theory to a real scenario.
+1. **Single-DOF Vibrations** — free/forced response.
+2. **Damping & Resonance** — under/over/critical damping.
+3. **Multi-DOF Vibrations** — normal modes.
+4. **Control Systems Basics** — transfer functions, block diagrams.
+5. **Frequency Response** — Bode plots, stability margins.
+6. **Integration Project** — vibration control case.
 
 ## Resources
-- **Primary Text:** A standard, high-quality text for the field.
-- **Supplemental:** Curated lectures and readings.
-- **Tooling:** Python (Jupyter), spreadsheets, and math tools as relevant.
+- **Primary:** Inman, *Engineering Vibration*; Ogata, *Control Engineering*.
+- **Tooling:** MATLAB/Octave, Python.
 
 ## Assignments & Evaluation
-- **Problem Sets / Labs:** 5–8 sets; practice to fluency.
-- **Project / Case Study:** A short applied project/case.
-- **Integration Task:** Reflect on links to adjacent pillars (1 page).
-- **Weighting:** 50% problem sets, 30% project/case, 20% integration.
+- **Problem Sets:** 5.
+- **Project:** Vibration/control analysis with code + memo.
+- **Integration:** Reflection on design tradeoffs.
+- **Weighting:** PS 50%, Project 40%, Integration 10%.
 
 ## Portfolio Output
-- Save final PDFs, code/notebooks, and slides in this course's `portfolio/` folder.
+- Code, plots, memo in `portfolio/`.

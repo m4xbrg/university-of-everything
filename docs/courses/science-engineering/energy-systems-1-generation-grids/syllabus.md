@@ -1,32 +1,29 @@
-# Energy Systems I: Power Generation & Grids
-
+# Energy Systems I: Generation & Grids
 **Pillar:** Science & Engineering  
-**Purpose:** This course builds core competence for analysis and decision-making across engineering, business, and civic contexts.
+**Purpose:** Explore how energy is generated and distributed via power grids.
 
 ## Learning Outcomes
-1. Apply core concepts to solve authentic problems.
-2. Analyze and communicate results effectively.
-3. Use appropriate tools and representations (math, code, exhibits).
-4. Connect this subject to adjacent pillars and capstones.
+1. Explain fossil, nuclear, and renewable generation technologies.
+2. Analyze power grid operations and balancing methods.
+3. Model dispatch and reliability scenarios.
+4. Evaluate integration of renewables.
 
 ## Modules & Weekly Topics
-1. **Foundations** — key ideas and definitions.
-2. **Core Techniques** — solving standard problems; practice to fluency.
-3. **Applications** — real-world scenarios for this subject.
-4. **Modeling & Interpretation** — assumptions, limits, sensitivity.
-5. **Extensions** — advanced or adjacent topics to explore.
-6. **Applications & Integration** — a small project tying theory to a real scenario.
+1. **Generation Technologies** — fossil, nuclear, hydro, wind, solar.
+2. **Grid Fundamentals** — frequency, dispatch, balancing.
+3. **Markets & Pricing** — locational marginal pricing (intro).
+4. **Renewables** — intermittency and storage needs.
+5. **Reliability** — N-1 contingency, blackout prevention.
+6. **Integration Project** — dispatch modeling case.
 
 ## Resources
-- **Primary Text:** A standard, high-quality text for the field.
-- **Supplemental:** Curated lectures and readings.
-- **Tooling:** Python (Jupyter), spreadsheets, and math tools as relevant.
+- **Primary:** Wood & Wollenberg, *Power Generation, Operation, and Control*.
 
 ## Assignments & Evaluation
-- **Problem Sets / Labs:** 5–8 sets; practice to fluency.
-- **Project / Case Study:** A short applied project/case.
-- **Integration Task:** Reflect on links to adjacent pillars (1 page).
-- **Weighting:** 50% problem sets, 30% project/case, 20% integration.
+- **Problem Sets:** 4 sets.
+- **Project:** Grid/dispatch case (model + memo).
+- **Integration:** Policy implications memo.
+- **Weighting:** PS 45%, Project 45%, Integration 10%.
 
 ## Portfolio Output
-- Save final PDFs, code/notebooks, and slides in this course's `portfolio/` folder.
+- Dispatch model + memo in `portfolio/`.

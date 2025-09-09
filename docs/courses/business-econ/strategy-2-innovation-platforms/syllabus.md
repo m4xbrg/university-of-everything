@@ -1,32 +1,29 @@
 # Strategy II: Innovation & Platforms
-
 **Pillar:** Business & Economics  
-**Purpose:** This course builds core competence for analysis and decision-making across engineering, business, and civic contexts.
+**Purpose:** Explore innovation cycles, network effects, and platform ecosystems.
 
 ## Learning Outcomes
-1. Apply core concepts to solve authentic problems.
-2. Analyze and communicate results effectively.
-3. Use appropriate tools and representations (math, code, exhibits).
-4. Connect this subject to adjacent pillars and capstones.
+1. Analyze innovation lifecycles and disruptions.
+2. Evaluate platform business models and network effects.
+3. Understand ecosystem positioning and coopetition.
+4. Recommend platform strategies.
 
 ## Modules & Weekly Topics
-1. **Foundations** — key ideas and definitions.
-2. **Core Techniques** — solving standard problems; practice to fluency.
-3. **Applications** — real-world scenarios for this subject.
-4. **Modeling & Interpretation** — assumptions, limits, sensitivity.
-5. **Extensions** — advanced or adjacent topics to explore.
-6. **Applications & Integration** — a small project tying theory to a real scenario.
+1. **Innovation Fundamentals** — S-curves, diffusion.
+2. **Platforms** — two-sided markets, chicken/egg problems.
+3. **Ecosystems** — complements, coopetition.
+4. **Disruption** — incumbents vs entrants.
+5. **Global Dynamics** — regulation, geopolitics.
+6. **Integration Project** — platform strategy case.
 
 ## Resources
-- **Primary Text:** A standard, high-quality text for the field.
-- **Supplemental:** Curated lectures and readings.
-- **Tooling:** Python (Jupyter), spreadsheets, and math tools as relevant.
+- **Primary:** Parker, Van Alstyne, Gawer, *Platform Revolution*.
 
 ## Assignments & Evaluation
-- **Problem Sets / Labs:** 5–8 sets; practice to fluency.
-- **Project / Case Study:** A short applied project/case.
-- **Integration Task:** Reflect on links to adjacent pillars (1 page).
-- **Weighting:** 50% problem sets, 30% project/case, 20% integration.
+- **Case Analyses:** 4–5.
+- **Project:** Strategy deck (slides).
+- **Integration:** Reflection memo.
+- **Weighting:** Cases 50%, Project 40%, Integration 10%.
 
 ## Portfolio Output
-- Save final PDFs, code/notebooks, and slides in this course's `portfolio/` folder.
+- Slide deck + memo in `portfolio/`.

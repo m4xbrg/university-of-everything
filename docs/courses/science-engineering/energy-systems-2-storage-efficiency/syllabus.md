@@ -1,32 +1,29 @@
 # Energy Systems II: Storage & Efficiency
-
 **Pillar:** Science & Engineering  
-**Purpose:** This course builds core competence for analysis and decision-making across engineering, business, and civic contexts.
+**Purpose:** Study storage and efficiency for modern energy systems.
 
 ## Learning Outcomes
-1. Apply core concepts to solve authentic problems.
-2. Analyze and communicate results effectively.
-3. Use appropriate tools and representations (math, code, exhibits).
-4. Connect this subject to adjacent pillars and capstones.
+1. Compare energy storage technologies (batteries, hydro, hydrogen).
+2. Model storage capacity, cycles, and degradation.
+3. Identify efficiency opportunities in buildings and industry.
+4. Assess tradeoffs for deployment.
 
 ## Modules & Weekly Topics
-1. **Foundations** — key ideas and definitions.
-2. **Core Techniques** — solving standard problems; practice to fluency.
-3. **Applications** — real-world scenarios for this subject.
-4. **Modeling & Interpretation** — assumptions, limits, sensitivity.
-5. **Extensions** — advanced or adjacent topics to explore.
-6. **Applications & Integration** — a small project tying theory to a real scenario.
+1. **Storage Tech** — batteries, pumped hydro, hydrogen.
+2. **Modeling Storage** — cycles, losses, degradation.
+3. **Efficiency** — industrial and building systems.
+4. **Policy & Economics** — incentives, carbon pricing.
+5. **Case Studies** — deployment scenarios.
+6. **Integration Project** — storage/efficiency design case.
 
 ## Resources
-- **Primary Text:** A standard, high-quality text for the field.
-- **Supplemental:** Curated lectures and readings.
-- **Tooling:** Python (Jupyter), spreadsheets, and math tools as relevant.
+- **Primary:** Chen et al., *Energy Storage Science*; IEA efficiency reports.
 
 ## Assignments & Evaluation
-- **Problem Sets / Labs:** 5–8 sets; practice to fluency.
-- **Project / Case Study:** A short applied project/case.
-- **Integration Task:** Reflect on links to adjacent pillars (1 page).
-- **Weighting:** 50% problem sets, 30% project/case, 20% integration.
+- **Problem Sets:** 4 sets.
+- **Project:** Storage/efficiency proposal.
+- **Integration:** Memo linking to climate targets.
+- **Weighting:** PS 40%, Project 50%, Integration 10%.
 
 ## Portfolio Output
-- Save final PDFs, code/notebooks, and slides in this course's `portfolio/` folder.
+- Design plan + memo in `portfolio/`.
