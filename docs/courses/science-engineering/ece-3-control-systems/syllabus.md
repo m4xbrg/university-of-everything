@@ -28,3 +28,7 @@
 
 ## Portfolio Output
 - Report + notebook in `portfolio/`.
+
+### Weekly Assignments
+See the 10-week sequence: [/assignments/sequences/ece-3-control-systems/README.md](/assignments/sequences/ece-3-control-systems/README.md)
+
