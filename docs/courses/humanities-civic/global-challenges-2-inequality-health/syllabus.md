@@ -1,32 +1,29 @@
 # Global Challenges II: Inequality & Health
-
 **Pillar:** Humanities & Civic  
-**Purpose:** This course builds core competence for analysis and decision-making across engineering, business, and civic contexts.
+**Purpose:** Study global inequality, health systems, and development challenges.
 
 ## Learning Outcomes
-1. Apply core concepts to solve authentic problems.
-2. Analyze and communicate results effectively.
-3. Use appropriate tools and representations (math, code, exhibits).
-4. Connect this subject to adjacent pillars and capstones.
+1. Measure inequality with Gini, HDI, and related indices.
+2. Evaluate healthcare systems globally.
+3. Connect inequality to education, gender, and social outcomes.
+4. Propose strategies for global health and equity.
 
 ## Modules & Weekly Topics
-1. **Foundations** — key ideas and definitions.
-2. **Core Techniques** — solving standard problems; practice to fluency.
-3. **Applications** — real-world scenarios for this subject.
-4. **Modeling & Interpretation** — assumptions, limits, sensitivity.
-5. **Extensions** — advanced or adjacent topics to explore.
-6. **Applications & Integration** — a small project tying theory to a real scenario.
+1. **Inequality Metrics** — Gini, HDI, income/wealth.
+2. **Health Systems** — models and financing.
+3. **Development Links** — poverty, education, gender.
+4. **Global Governance** — WHO, UN, SDGs.
+5. **Case Studies** — country comparisons.
+6. **Integration Project** — inequality/health policy brief.
 
 ## Resources
-- **Primary Text:** A standard, high-quality text for the field.
-- **Supplemental:** Curated lectures and readings.
-- **Tooling:** Python (Jupyter), spreadsheets, and math tools as relevant.
+- **Primary:** Deaton, *The Great Escape*; Sen, *Development as Freedom*.
 
 ## Assignments & Evaluation
-- **Problem Sets / Labs:** 5–8 sets; practice to fluency.
-- **Project / Case Study:** A short applied project/case.
-- **Integration Task:** Reflect on links to adjacent pillars (1 page).
-- **Weighting:** 50% problem sets, 30% project/case, 20% integration.
+- **Essays:** 2.
+- **Project:** Comparative case study report.
+- **Integration:** Policy memo.
+- **Weighting:** Essays 40%, Project 50%, Integration 10%.
 
 ## Portfolio Output
-- Save final PDFs, code/notebooks, and slides in this course's `portfolio/` folder.
+- Policy brief in `portfolio/`.

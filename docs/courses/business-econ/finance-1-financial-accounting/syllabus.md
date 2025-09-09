@@ -1,32 +1,30 @@
 # Finance I: Financial Accounting
-
 **Pillar:** Business & Economics  
-**Purpose:** This course builds core competence for analysis and decision-making across engineering, business, and civic contexts.
+**Purpose:** Learn how to read and prepare financial statements; foundation for finance and strategy.
 
 ## Learning Outcomes
-1. Apply core concepts to solve authentic problems.
-2. Analyze and communicate results effectively.
-3. Use appropriate tools and representations (math, code, exhibits).
-4. Connect this subject to adjacent pillars and capstones.
+1. Prepare income statements, balance sheets, and cash flow statements.
+2. Interpret financial statements for decision-making.
+3. Apply ratio analysis to assess firm performance.
+4. Recognize limitations and judgments in accounting.
 
 ## Modules & Weekly Topics
-1. **Foundations** — key ideas and definitions.
-2. **Core Techniques** — solving standard problems; practice to fluency.
-3. **Applications** — real-world scenarios for this subject.
-4. **Modeling & Interpretation** — assumptions, limits, sensitivity.
-5. **Extensions** — advanced or adjacent topics to explore.
-6. **Applications & Integration** — a small project tying theory to a real scenario.
+1. **Accounting Principles** — GAAP/IFRS, double-entry.
+2. **Income Statement** — revenues, expenses, net income.
+3. **Balance Sheet** — assets, liabilities, equity.
+4. **Cash Flow** — operating, investing, financing.
+5. **Analysis** — ratios, red flags, limitations.
+6. **Integration Project** — analyze a company’s financials.
 
 ## Resources
-- **Primary Text:** A standard, high-quality text for the field.
-- **Supplemental:** Curated lectures and readings.
-- **Tooling:** Python (Jupyter), spreadsheets, and math tools as relevant.
+- **Primary:** Libby, *Financial Accounting*.
+- **Tooling:** Excel/Google Sheets.
 
 ## Assignments & Evaluation
-- **Problem Sets / Labs:** 5–8 sets; practice to fluency.
-- **Project / Case Study:** A short applied project/case.
-- **Integration Task:** Reflect on links to adjacent pillars (1 page).
-- **Weighting:** 50% problem sets, 30% project/case, 20% integration.
+- **Exercises:** 5 problem sets.
+- **Project:** Company analysis (short report).
+- **Integration:** Memo linking financials to strategy.
+- **Weighting:** Exercises 50%, Project 40%, Integration 10%.
 
 ## Portfolio Output
-- Save final PDFs, code/notebooks, and slides in this course's `portfolio/` folder.
+- Financial statements + memo in `portfolio/`.

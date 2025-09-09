@@ -1,30 +1,30 @@
 # Storytelling for Leaders & Consultants
 **Pillar:** Life / Creativity / Meta  
-**Purpose:** Communicate ideas and strategies persuasively through narrative.
+**Purpose:** Communicate persuasively by crafting compelling narratives for leadership and consulting.
 
 ## Learning Outcomes
-1. Apply narrative structures to consulting and leadership contexts.
-2. Use visuals and rhetoric to support stories.
-3. Adapt communication for audiences (execs, teams, public).
-4. Build confidence in public delivery.
+1. Build narratives using proven structures (arc, pyramid principle).
+2. Design visuals and exhibits to support key points.
+3. Deliver presentations with presence and influence.
+4. Adapt storytelling for executives, teams, and public audiences.
 
 ## Modules & Weekly Topics
-1. **Narrative Basics** — arc, tension, resolution.
+1. **Narrative Basics** — structure, arc, tension.
 2. **Consulting Storylines** — pyramid principle, MECE.
 3. **Visual Communication** — slides, charts, exhibits.
-4. **Speaking Skills** — presence, delivery, persuasion.
-5. **Leadership & Influence** — authenticity, vision.
-6. **Integration** — presentation project tying strategy to story.
+4. **Public Speaking** — delivery, presence, persuasion.
+5. **Leadership Influence** — authenticity, vision.
+6. **Integration Project** — presentation deck + delivery script.
 
 ## Resources
 - **Primary:** Barbara Minto, *The Pyramid Principle*; Duarte, *Resonate*.
-- **Supplemental:** TED talks, McKinsey/BCG communication primers.
+- **Supplemental:** TED talks, BCG/McKinsey communication guides.
 
 ## Assignments & Evaluation
-- **Exercises:** Short narrative drills (3).
-- **Project:** Full presentation (deck + delivery script).
+- **Exercises:** 3 narrative drills.
+- **Project:** Full presentation deck + script.
 - **Integration:** Reflection on leadership voice.
 - **Weighting:** Exercises 30%, Project 50%, Integration 20%.
 
 ## Portfolio Output
-- Slide deck + reflection in `portfolio/`.
+- Deck + reflection in `portfolio/`.

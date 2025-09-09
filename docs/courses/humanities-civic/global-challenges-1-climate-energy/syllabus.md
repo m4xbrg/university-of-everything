@@ -1,32 +1,30 @@
 # Global Challenges I: Climate & Energy
-
 **Pillar:** Humanities & Civic  
-**Purpose:** This course builds core competence for analysis and decision-making across engineering, business, and civic contexts.
+**Purpose:** Explore climate change science, policy, and energy transitions.
 
 ## Learning Outcomes
-1. Apply core concepts to solve authentic problems.
-2. Analyze and communicate results effectively.
-3. Use appropriate tools and representations (math, code, exhibits).
-4. Connect this subject to adjacent pillars and capstones.
+1. Summarize climate science and greenhouse gas dynamics.
+2. Evaluate mitigation and adaptation strategies.
+3. Analyze energy transitions and technology shifts.
+4. Connect climate issues to business and policy decisions.
 
 ## Modules & Weekly Topics
-1. **Foundations** — key ideas and definitions.
-2. **Core Techniques** — solving standard problems; practice to fluency.
-3. **Applications** — real-world scenarios for this subject.
-4. **Modeling & Interpretation** — assumptions, limits, sensitivity.
-5. **Extensions** — advanced or adjacent topics to explore.
-6. **Applications & Integration** — a small project tying theory to a real scenario.
+1. **Climate Science** — greenhouse effect, projections.
+2. **Mitigation** — renewables, efficiency, carbon pricing.
+3. **Adaptation** — resilience, equity, infrastructure.
+4. **Energy Transition** — past/present/future shifts.
+5. **Policy & Governance** — UNFCCC, Paris Agreement.
+6. **Integration Project** — climate strategy brief.
 
 ## Resources
-- **Primary Text:** A standard, high-quality text for the field.
-- **Supplemental:** Curated lectures and readings.
-- **Tooling:** Python (Jupyter), spreadsheets, and math tools as relevant.
+- **Primary:** IPCC reports.
+- **Supplemental:** IEA World Energy Outlook.
 
 ## Assignments & Evaluation
-- **Problem Sets / Labs:** 5–8 sets; practice to fluency.
-- **Project / Case Study:** A short applied project/case.
-- **Integration Task:** Reflect on links to adjacent pillars (1 page).
-- **Weighting:** 50% problem sets, 30% project/case, 20% integration.
+- **Essays:** 2 short essays.
+- **Project:** Climate/energy policy memo.
+- **Integration:** Reflection on tradeoffs.
+- **Weighting:** Essays 40%, Project 50%, Integration 10%.
 
 ## Portfolio Output
-- Save final PDFs, code/notebooks, and slides in this course's `portfolio/` folder.
+- Policy memo in `portfolio/`.
