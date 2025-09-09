@@ -1,31 +1,32 @@
 # Electrical Engineering I: Circuits
 
 **Pillar:** Science & Engineering  
-**Purpose:** Foundations of modern electronics: circuit laws, analysis methods, and physical intuition.
+**Purpose:** This course builds core competence for analysis and decision-making across engineering, business, and civic contexts.
 
 ## Learning Outcomes
-1. Apply KCL/KVL; analyze resistive networks.
-2. Use Thevenin/Norton equivalents; source transformations.
-3. Solve first-order RC/RL transients.
-4. Interpret power/energy; basic AC steady-state.
+1. Apply core concepts to solve authentic problems.
+2. Analyze and communicate results effectively.
+3. Use appropriate tools and representations (math, code, exhibits).
+4. Connect this subject to adjacent pillars and capstones.
 
 ## Modules & Weekly Topics
-1. **Basics** — elements, signals, power, units.
-2. **KCL/KVL & Methods** — nodal/mesh.
-3. **Equivalents** — Thevenin/Norton, superposition.
-4. **Transients** — RC/RL differential equations.
-5. **AC Intro** — phasors, sinusoidal steady-state (preview).
-6. **Integration** — mini-lab & design memo.
+1. **Foundations** — key ideas and definitions.
+2. **Core Techniques** — solving standard problems; practice to fluency.
+3. **Applications** — real-world scenarios for this subject.
+4. **Modeling & Interpretation** — assumptions, limits, sensitivity.
+5. **Extensions** — advanced or adjacent topics to explore.
+6. **Applications & Integration** — a small project tying theory to a real scenario.
 
 ## Resources
-- **Primary:** Nilsson & Riedel, *Electric Circuits*.
-- **Tooling:** Circuit sim (LTspice/Ngspice), Python.
+- **Primary Text:** A standard, high-quality text for the field.
+- **Supplemental:** Curated lectures and readings.
+- **Tooling:** Python (Jupyter), spreadsheets, and math tools as relevant.
 
 ## Assignments & Evaluation
-- **Problem Sets:** 6 sets (~140 problems).
-- **Labs:** 4 sims/labs with short reports.
-- **Integration:** Design note on tradeoffs.
-- **Weighting:** PS 50%, Labs 40%, Integration 10%.
+- **Problem Sets / Labs:** 5–8 sets; practice to fluency.
+- **Project / Case Study:** A short applied project/case.
+- **Integration Task:** Reflect on links to adjacent pillars (1 page).
+- **Weighting:** 50% problem sets, 30% project/case, 20% integration.
 
 ## Portfolio Output
-- Lab reports + sim files in `portfolio/`.
+- Save final PDFs, code/notebooks, and slides in this course's `portfolio/` folder.

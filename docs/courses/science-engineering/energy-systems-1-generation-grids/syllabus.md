@@ -1,31 +1,32 @@
 # Energy Systems I: Power Generation & Grids
 
 **Pillar:** Science & Engineering  
-**Purpose:** Understand how energy is generated, moved, balanced, and priced—critical for climate, policy, and industry.
+**Purpose:** This course builds core competence for analysis and decision-making across engineering, business, and civic contexts.
 
 ## Learning Outcomes
-1. Describe thermodynamic limits and major generation technologies.
-2. Explain grid operation: baseload, peaking, balancing.
-3. Model simple unit commitment & dispatch.
-4. Evaluate renewable integration challenges.
+1. Apply core concepts to solve authentic problems.
+2. Analyze and communicate results effectively.
+3. Use appropriate tools and representations (math, code, exhibits).
+4. Connect this subject to adjacent pillars and capstones.
 
 ## Modules & Weekly Topics
-1. **Thermo Limits & Tech Survey** — fossil, nuclear, hydro, wind, solar.
-2. **Power Systems Basics** — generators, transmission, frequency control.
-3. **Dispatch & Markets** — merit order, LMP (intro).
-4. **Renewables Integration** — intermittency, storage, curtailment.
-5. **Reliability & Resilience** — N-1, planning; storms & shocks.
-6. **Integration** — mini-capstone: simplified dispatch model + memo.
+1. **Foundations** — key ideas and definitions.
+2. **Core Techniques** — solving standard problems; practice to fluency.
+3. **Applications** — real-world scenarios for this subject.
+4. **Modeling & Interpretation** — assumptions, limits, sensitivity.
+5. **Extensions** — advanced or adjacent topics to explore.
+6. **Applications & Integration** — a small project tying theory to a real scenario.
 
 ## Resources
-- **Primary:** Wood & Wollenberg, *Power Generation, Operation, and Control* (selections).
-- **Tooling:** Python (Pandas/NumPy), spreadsheet modeling.
+- **Primary Text:** A standard, high-quality text for the field.
+- **Supplemental:** Curated lectures and readings.
+- **Tooling:** Python (Jupyter), spreadsheets, and math tools as relevant.
 
 ## Assignments & Evaluation
-- **Problem Sets:** 4 sets (calculations & reasoning).
-- **Project:** Simple dispatch model with scenarios.
-- **Integration:** Policy/market implications memo.
-- **Weighting:** PS 45%, Project 45%, Integration 10%.
+- **Problem Sets / Labs:** 5–8 sets; practice to fluency.
+- **Project / Case Study:** A short applied project/case.
+- **Integration Task:** Reflect on links to adjacent pillars (1 page).
+- **Weighting:** 50% problem sets, 30% project/case, 20% integration.
 
 ## Portfolio Output
-- Model + memo in `portfolio/`.
+- Save final PDFs, code/notebooks, and slides in this course's `portfolio/` folder.

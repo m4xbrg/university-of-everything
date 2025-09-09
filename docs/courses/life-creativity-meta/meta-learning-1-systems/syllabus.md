@@ -1,31 +1,32 @@
 # Meta-Learning I: Systems Thinking & Productivity
 
-**Pillar:** Life / Creativity / Meta  
-**Purpose:** Learn how to learn at scale; build systems for knowledge, time, and focus. Apply feedback-loop thinking to life and work.
+**Pillar:** Life/Creativity/Meta  
+**Purpose:** This course builds core competence for analysis and decision-making across engineering, business, and civic contexts.
 
 ## Learning Outcomes
-1. Model complex problems with stocks, flows, and feedbacks.
-2. Implement a personal knowledge system (PKM) and review cadence.
-3. Use techniques: spaced repetition, deliberate practice, interleaving.
-4. Build a weekly system for deep work, capture, and reflection.
+1. Apply core concepts to solve authentic problems.
+2. Analyze and communicate results effectively.
+3. Use appropriate tools and representations (math, code, exhibits).
+4. Connect this subject to adjacent pillars and capstones.
 
 ## Modules & Weekly Topics
-1. **Systems Thinking** — loops, delays, leverage points.
-2. **Cognitive Principles** — memory, retrieval, practice.
-3. **PKM Architecture** — capture, organize, distill, express.
-4. **Deep Work & Routines** — time-blocking, habit design, reviews.
-5. **Scaling Learning** — projects, portfolios, domains in parallel.
-6. **Integration** — mini-capstone: your operating system (docs + demo).
+1. **Foundations** — key ideas and definitions.
+2. **Core Techniques** — solving standard problems; practice to fluency.
+3. **Applications** — real-world scenarios for this subject.
+4. **Modeling & Interpretation** — assumptions, limits, sensitivity.
+5. **Extensions** — advanced or adjacent topics to explore.
+6. **Applications & Integration** — a small project tying theory to a real scenario.
 
 ## Resources
-- **Primary:** Meadows, *Thinking in Systems*; selected cognitive science readings.
-- **Tooling:** Your choice (Obsidian/Notion/Markdown + spaced repetition tool).
+- **Primary Text:** A standard, high-quality text for the field.
+- **Supplemental:** Curated lectures and readings.
+- **Tooling:** Python (Jupyter), spreadsheets, and math tools as relevant.
 
 ## Assignments & Evaluation
-- **Exercises:** 5 weekly build-outs (PKM, schedule, reviews).
-- **Project:** “Personal OS” with artifacts and SOPs.
-- **Integration:** Reflection on how this supports capstones.
-- **Weighting:** Exercises 40%, Project 50%, Integration 10%.
+- **Problem Sets / Labs:** 5–8 sets; practice to fluency.
+- **Project / Case Study:** A short applied project/case.
+- **Integration Task:** Reflect on links to adjacent pillars (1 page).
+- **Weighting:** 50% problem sets, 30% project/case, 20% integration.
 
 ## Portfolio Output
-- SOPs, screenshots (if desired), and a short screencast/script in `portfolio/`.
+- Save final PDFs, code/notebooks, and slides in this course's `portfolio/` folder.

@@ -1,31 +1,32 @@
 # Finance II: Corporate Finance
 
 **Pillar:** Business & Economics  
-**Purpose:** Value firms/projects; capital structure; risk & return—core to strategy and consulting.
+**Purpose:** This course builds core competence for analysis and decision-making across engineering, business, and civic contexts.
 
 ## Learning Outcomes
-1. Build DCF valuation; sensitivity/scenario analyses.
-2. Compute WACC; reason about capital structure & cost of capital.
-3. Evaluate projects (NPV, IRR, payback) correctly.
-4. Communicate recommendations with clear exhibits.
+1. Apply core concepts to solve authentic problems.
+2. Analyze and communicate results effectively.
+3. Use appropriate tools and representations (math, code, exhibits).
+4. Connect this subject to adjacent pillars and capstones.
 
 ## Modules & Weekly Topics
-1. **Valuation Basics** — free cash flow, DCF, multiples.
-2. **Cost of Capital** — CAPM, WACC, beta estimation.
-3. **Capital Structure** — MM propositions; tax & distress tradeoffs.
-4. **Project Selection** — NPV vs IRR pitfalls; real options (intro).
-5. **Working Capital & Policy** — operations-finance links.
-6. **Integration** — case: investment decision + board memo.
+1. **Foundations** — key ideas and definitions.
+2. **Core Techniques** — solving standard problems; practice to fluency.
+3. **Applications** — real-world scenarios for this subject.
+4. **Modeling & Interpretation** — assumptions, limits, sensitivity.
+5. **Extensions** — advanced or adjacent topics to explore.
+6. **Applications & Integration** — a small project tying theory to a real scenario.
 
 ## Resources
-- **Primary:** Brealey, Myers, Allen, *Principles of Corporate Finance*.
-- **Tooling:** Spreadsheets + Python (optional).
+- **Primary Text:** A standard, high-quality text for the field.
+- **Supplemental:** Curated lectures and readings.
+- **Tooling:** Python (Jupyter), spreadsheets, and math tools as relevant.
 
 ## Assignments & Evaluation
-- **Problem Sets:** 5 valuation sets.
-- **Projects:** 2 cases (valuation + investment).
-- **Integration:** Board memo with exhibits.
-- **Weighting:** PS 40%, Projects 50%, Integration 10%.
+- **Problem Sets / Labs:** 5–8 sets; practice to fluency.
+- **Project / Case Study:** A short applied project/case.
+- **Integration Task:** Reflect on links to adjacent pillars (1 page).
+- **Weighting:** 50% problem sets, 30% project/case, 20% integration.
 
 ## Portfolio Output
-- Model workbooks + memos in `portfolio/`.
+- Save final PDFs, code/notebooks, and slides in this course's `portfolio/` folder.

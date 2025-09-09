@@ -1,31 +1,32 @@
 # Industrial Engineering I: Operations Research
 
 **Pillar:** Science & Engineering  
-**Purpose:** Optimization & decision science for logistics, manufacturing, finance, and policy.
+**Purpose:** This course builds core competence for analysis and decision-making across engineering, business, and civic contexts.
 
 ## Learning Outcomes
-1. Formulate LP/IP models; interpret duals & sensitivity.
-2. Solve optimization problems with solvers; validate results.
-3. Analyze queues, scheduling, and networks.
-4. Communicate tradeoffs and recommendations.
+1. Apply core concepts to solve authentic problems.
+2. Analyze and communicate results effectively.
+3. Use appropriate tools and representations (math, code, exhibits).
+4. Connect this subject to adjacent pillars and capstones.
 
 ## Modules & Weekly Topics
-1. **Modeling & LP** — decision variables, constraints, objectives; Simplex.
-2. **Duality & Sensitivity** — shadow prices, ranges.
-3. **Integer Programming** — knapsack, assignment, branch & bound.
-4. **Queues & Simulation** — M/M/1; discrete-event basics.
-5. **Networks** — shortest paths, flows.
-6. **Integration** — mini-capstone: supply chain optimization.
+1. **Foundations** — key ideas and definitions.
+2. **Core Techniques** — solving standard problems; practice to fluency.
+3. **Applications** — real-world scenarios for this subject.
+4. **Modeling & Interpretation** — assumptions, limits, sensitivity.
+5. **Extensions** — advanced or adjacent topics to explore.
+6. **Applications & Integration** — a small project tying theory to a real scenario.
 
 ## Resources
-- **Primary:** Hillier & Lieberman, *Introduction to OR*.
-- **Tooling:** Python (PuLP/OR-Tools), spreadsheets.
+- **Primary Text:** A standard, high-quality text for the field.
+- **Supplemental:** Curated lectures and readings.
+- **Tooling:** Python (Jupyter), spreadsheets, and math tools as relevant.
 
 ## Assignments & Evaluation
-- **Problem Sets:** 5 sets (~120 problems).
-- **Projects:** 2 simulation/optimization projects.
-- **Integration:** Executive memo summarizing decisions.
-- **Weighting:** PS 50%, Projects 40%, Integration 10%.
+- **Problem Sets / Labs:** 5–8 sets; practice to fluency.
+- **Project / Case Study:** A short applied project/case.
+- **Integration Task:** Reflect on links to adjacent pillars (1 page).
+- **Weighting:** 50% problem sets, 30% project/case, 20% integration.
 
 ## Portfolio Output
-- Code, reports, memos in `portfolio/`.
+- Save final PDFs, code/notebooks, and slides in this course's `portfolio/` folder.

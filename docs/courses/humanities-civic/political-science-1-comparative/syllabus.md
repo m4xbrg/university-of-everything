@@ -1,29 +1,32 @@
 # Political Science I: Comparative Politics
 
 **Pillar:** Humanities & Civic  
-**Purpose:** Understand how political systems differ and why it matters for policy, markets, and strategy.
+**Purpose:** This course builds core competence for analysis and decision-making across engineering, business, and civic contexts.
 
 ## Learning Outcomes
-1. Compare regime types and institutions.
-2. Explain electoral systems & party dynamics.
-3. Analyze state capacity, corruption, and development.
-4. Connect politics to business/policy risk assessments.
+1. Apply core concepts to solve authentic problems.
+2. Analyze and communicate results effectively.
+3. Use appropriate tools and representations (math, code, exhibits).
+4. Connect this subject to adjacent pillars and capstones.
 
 ## Modules & Weekly Topics
-1. **Regimes & Institutions** — democracy, authoritarianism, hybrids.
-2. **Elections & Parties** — rules, incentives, coalitions.
-3. **State Capacity** — bureaucracy, rule of law; corruption.
-4. **Development & Conflict** — growth, inequality, stability.
-5. **Business & Policy Risk** — regulatory environments.
-6. **Integration** — country brief (risk & opportunity).
+1. **Foundations** — key ideas and definitions.
+2. **Core Techniques** — solving standard problems; practice to fluency.
+3. **Applications** — real-world scenarios for this subject.
+4. **Modeling & Interpretation** — assumptions, limits, sensitivity.
+5. **Extensions** — advanced or adjacent topics to explore.
+6. **Applications & Integration** — a small project tying theory to a real scenario.
 
 ## Resources
-- **Primary:** Lijphart; Levitsky & Way; assorted readings.
-- **Assignments & Evaluation**
-- **Essays:** 3 short analytical essays.
-- **Project:** Country risk brief (6–8 pages).
-- **Integration:** Reflection on ethics & governance.
-- **Weighting:** Essays 40%, Project 50%, Integration 10%.
+- **Primary Text:** A standard, high-quality text for the field.
+- **Supplemental:** Curated lectures and readings.
+- **Tooling:** Python (Jupyter), spreadsheets, and math tools as relevant.
+
+## Assignments & Evaluation
+- **Problem Sets / Labs:** 5–8 sets; practice to fluency.
+- **Project / Case Study:** A short applied project/case.
+- **Integration Task:** Reflect on links to adjacent pillars (1 page).
+- **Weighting:** 50% problem sets, 30% project/case, 20% integration.
 
 ## Portfolio Output
-- Country brief + executive memo in `portfolio/`.
+- Save final PDFs, code/notebooks, and slides in this course's `portfolio/` folder.

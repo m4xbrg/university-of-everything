@@ -1,31 +1,32 @@
 # Strategy I: Competitive Advantage
 
 **Pillar:** Business & Economics  
-**Purpose:** Diagnose industries, positions, and moats; design actions under uncertainty.
+**Purpose:** This course builds core competence for analysis and decision-making across engineering, business, and civic contexts.
 
 ## Learning Outcomes
-1. Conduct industry analysis (5 Forces) and value chain mapping.
-2. Identify sources of advantage (cost/differentiation, capabilities).
-3. Build coherent, testable strategic hypotheses.
-4. Communicate strategy via clear narrative and exhibits.
+1. Apply core concepts to solve authentic problems.
+2. Analyze and communicate results effectively.
+3. Use appropriate tools and representations (math, code, exhibits).
+4. Connect this subject to adjacent pillars and capstones.
 
 ## Modules & Weekly Topics
-1. **Industry Structure** — 5 Forces, complements, entrants.
-2. **Positioning & Fit** — value chain, activity systems.
-3. **Capabilities & Resources** — VRIO, dynamic capabilities.
-4. **Competition & Games** — basic game-theory lens.
-5. **Uncertainty** — scenarios, real options thinking.
-6. **Integration** — strategy brief for a target firm.
+1. **Foundations** — key ideas and definitions.
+2. **Core Techniques** — solving standard problems; practice to fluency.
+3. **Applications** — real-world scenarios for this subject.
+4. **Modeling & Interpretation** — assumptions, limits, sensitivity.
+5. **Extensions** — advanced or adjacent topics to explore.
+6. **Applications & Integration** — a small project tying theory to a real scenario.
 
 ## Resources
-- **Primary:** Porter; Ghemawat; Rumelt selections.
-- **Tooling:** Slide authoring; light modeling.
+- **Primary Text:** A standard, high-quality text for the field.
+- **Supplemental:** Curated lectures and readings.
+- **Tooling:** Python (Jupyter), spreadsheets, and math tools as relevant.
 
 ## Assignments & Evaluation
-- **Cases:** 6 case write-ups.
-- **Project:** Strategy brief (10–12 slides).
-- **Integration:** Reflection: ethics & externalities.
-- **Weighting:** Cases 50%, Project 40%, Integration 10%.
+- **Problem Sets / Labs:** 5–8 sets; practice to fluency.
+- **Project / Case Study:** A short applied project/case.
+- **Integration Task:** Reflect on links to adjacent pillars (1 page).
+- **Weighting:** 50% problem sets, 30% project/case, 20% integration.
 
 ## Portfolio Output
-- Slide deck + 1-page executive summary in `portfolio/`.
+- Save final PDFs, code/notebooks, and slides in this course's `portfolio/` folder.
