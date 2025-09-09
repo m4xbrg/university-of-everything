@@ -28,3 +28,6 @@
 
 ## Portfolio Output
 - Project writeup in `portfolio/`.
+
+### Weekly Assignments
+See the 10-week sequence: [/assignments/sequences/calculus-1/README.md](/assignments/sequences/calculus-1/README.md)
