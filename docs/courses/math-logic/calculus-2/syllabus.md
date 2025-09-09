@@ -1,32 +1,30 @@
 # Calculus II
-
 **Pillar:** Math & Logic  
-**Purpose:** This course builds core competence for analysis and decision-making across engineering, business, and civic contexts.
+**Purpose:** Integral calculus and sequences/series — essential for physics, engineering, and finance.
 
 ## Learning Outcomes
-1. Apply core concepts to solve authentic problems.
-2. Analyze and communicate results effectively.
-3. Use appropriate tools and representations (math, code, exhibits).
-4. Connect this subject to adjacent pillars and capstones.
+1. Evaluate definite and indefinite integrals using substitution, parts, trig, and partial fractions.
+2. Apply integrals to compute areas, volumes, arc length, and probability.
+3. Analyze convergence of improper integrals and infinite series.
+4. Represent functions as power and Taylor series.
 
 ## Modules & Weekly Topics
-1. **Foundations** — key ideas and definitions.
-2. **Core Techniques** — solving standard problems; practice to fluency.
-3. **Applications** — real-world scenarios for this subject.
-4. **Modeling & Interpretation** — assumptions, limits, sensitivity.
-5. **Extensions** — advanced or adjacent topics to explore.
-6. **Applications & Integration** — a small project tying theory to a real scenario.
+1. **Integration Techniques** — substitution, parts, trig, partial fractions.
+2. **Applications of Integration** — volumes (disk, shell), arc length, probability.
+3. **Improper Integrals** — tests for convergence/divergence.
+4. **Sequences & Series** — convergence tests, examples.
+5. **Power Series & Taylor** — approximations and error analysis.
+6. **Integration Project** — apply series to a modeling problem.
 
 ## Resources
-- **Primary Text:** A standard, high-quality text for the field.
-- **Supplemental:** Curated lectures and readings.
-- **Tooling:** Python (Jupyter), spreadsheets, and math tools as relevant.
+- **Primary:** Stewart, *Calculus: Early Transcendentals*, Ch. 7–11.
+- **Tooling:** Jupyter (SymPy), Desmos.
 
 ## Assignments & Evaluation
-- **Problem Sets / Labs:** 5–8 sets; practice to fluency.
-- **Project / Case Study:** A short applied project/case.
-- **Integration Task:** Reflect on links to adjacent pillars (1 page).
-- **Weighting:** 50% problem sets, 30% project/case, 20% integration.
+- **Problem Sets:** 6 (~200 problems).
+- **Project:** Series-based application (physics/finance model).
+- **Integration:** 1-page reflection on infinite processes in modeling.
+- **Weighting:** PS 60%, Project 30%, Integration 10%.
 
 ## Portfolio Output
-- Save final PDFs, code/notebooks, and slides in this course's `portfolio/` folder.
+- Project report + notebook in `portfolio/`.

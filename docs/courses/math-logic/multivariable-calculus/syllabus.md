@@ -1,32 +1,30 @@
 # Multivariable Calculus
-
 **Pillar:** Math & Logic  
-**Purpose:** This course builds core competence for analysis and decision-making across engineering, business, and civic contexts.
+**Purpose:** Extends calculus to multiple dimensions — essential for modeling in physics, economics, and engineering.
 
 ## Learning Outcomes
-1. Apply core concepts to solve authentic problems.
-2. Analyze and communicate results effectively.
-3. Use appropriate tools and representations (math, code, exhibits).
-4. Connect this subject to adjacent pillars and capstones.
+1. Compute partial derivatives, gradients, and optimize multivariable functions.
+2. Evaluate double and triple integrals in various coordinate systems.
+3. Work with vector fields and compute divergence and curl.
+4. Apply Green’s, Stokes’, and Divergence theorems.
 
 ## Modules & Weekly Topics
-1. **Foundations** — key ideas and definitions.
-2. **Core Techniques** — solving standard problems; practice to fluency.
-3. **Applications** — real-world scenarios for this subject.
-4. **Modeling & Interpretation** — assumptions, limits, sensitivity.
-5. **Extensions** — advanced or adjacent topics to explore.
-6. **Applications & Integration** — a small project tying theory to a real scenario.
+1. **3D Geometry & Vectors** — dot/cross products, planes.
+2. **Partial Derivatives & Gradients** — tangent planes, Lagrange multipliers.
+3. **Multiple Integrals** — double/triple integrals, change of variables.
+4. **Vector Fields** — divergence, curl, conservative fields.
+5. **Integral Theorems** — Green, Stokes, Divergence.
+6. **Integration Project** — applied multi-variable modeling.
 
 ## Resources
-- **Primary Text:** A standard, high-quality text for the field.
-- **Supplemental:** Curated lectures and readings.
-- **Tooling:** Python (Jupyter), spreadsheets, and math tools as relevant.
+- **Primary:** Stewart, *Calculus: Early Transcendentals*, multivariable chapters.
+- **Tooling:** Python (NumPy), GeoGebra.
 
 ## Assignments & Evaluation
-- **Problem Sets / Labs:** 5–8 sets; practice to fluency.
-- **Project / Case Study:** A short applied project/case.
-- **Integration Task:** Reflect on links to adjacent pillars (1 page).
-- **Weighting:** 50% problem sets, 30% project/case, 20% integration.
+- **Problem Sets:** 6 sets.
+- **Project:** Applied case (heat distribution/economic utility).
+- **Integration:** Memo synthesizing applications.
+- **Weighting:** PS 55%, Project 35%, Integration 10%.
 
 ## Portfolio Output
-- Save final PDFs, code/notebooks, and slides in this course's `portfolio/` folder.
+- Report + code in `portfolio/`.

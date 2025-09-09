@@ -1,32 +1,30 @@
 # Physics II: Electricity & Magnetism
-
 **Pillar:** Science & Engineering  
-**Purpose:** This course builds core competence for analysis and decision-making across engineering, business, and civic contexts.
+**Purpose:** Electricity and magnetism as the basis for circuits, power, and communication systems.
 
 ## Learning Outcomes
-1. Apply core concepts to solve authentic problems.
-2. Analyze and communicate results effectively.
-3. Use appropriate tools and representations (math, code, exhibits).
-4. Connect this subject to adjacent pillars and capstones.
+1. Apply Coulomb’s law, Gauss’s law, and electric field concepts.
+2. Analyze electric potential, capacitance, and simple circuits.
+3. Model magnetic fields, induction, and introductory Maxwell’s equations.
+4. Connect EM principles to real systems.
 
 ## Modules & Weekly Topics
-1. **Foundations** — key ideas and definitions.
-2. **Core Techniques** — solving standard problems; practice to fluency.
-3. **Applications** — real-world scenarios for this subject.
-4. **Modeling & Interpretation** — assumptions, limits, sensitivity.
-5. **Extensions** — advanced or adjacent topics to explore.
-6. **Applications & Integration** — a small project tying theory to a real scenario.
+1. **Electric Fields & Gauss’s Law** — flux, charges, applications.
+2. **Potential & Capacitance** — energy, capacitors.
+3. **Circuits Intro** — RC circuits, Kirchoff’s rules.
+4. **Magnetism** — Biot-Savart, Ampere’s law.
+5. **Induction** — Faraday’s law, inductors.
+6. **Integration Lab** — EM applied to power/comms.
 
 ## Resources
-- **Primary Text:** A standard, high-quality text for the field.
-- **Supplemental:** Curated lectures and readings.
-- **Tooling:** Python (Jupyter), spreadsheets, and math tools as relevant.
+- **Primary:** Young & Freedman, *University Physics* Vol. 2.
+- **Tooling:** Python, PhET labs.
 
 ## Assignments & Evaluation
-- **Problem Sets / Labs:** 5–8 sets; practice to fluency.
-- **Project / Case Study:** A short applied project/case.
-- **Integration Task:** Reflect on links to adjacent pillars (1 page).
-- **Weighting:** 50% problem sets, 30% project/case, 20% integration.
+- **Problem Sets:** 6 sets.
+- **Labs:** 3 writeups.
+- **Integration:** Memo on applications.
+- **Weighting:** PS 50%, Labs 40%, Integration 10%.
 
 ## Portfolio Output
-- Save final PDFs, code/notebooks, and slides in this course's `portfolio/` folder.
+- Lab reports + memo in `portfolio/`.

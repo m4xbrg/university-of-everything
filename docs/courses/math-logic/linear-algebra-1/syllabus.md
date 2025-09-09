@@ -1,32 +1,31 @@
 # Linear Algebra I
-
 **Pillar:** Math & Logic  
-**Purpose:** This course builds core competence for analysis and decision-making across engineering, business, and civic contexts.
+**Purpose:** Algebra of vectors, matrices, and transformations — essential for data science, economics, and engineering.
 
 ## Learning Outcomes
-1. Apply core concepts to solve authentic problems.
-2. Analyze and communicate results effectively.
-3. Use appropriate tools and representations (math, code, exhibits).
-4. Connect this subject to adjacent pillars and capstones.
+1. Solve systems of linear equations using matrix methods.
+2. Compute determinants and interpret geometric meaning.
+3. Find eigenvalues/eigenvectors and diagonalize matrices.
+4. Apply least squares to data fitting.
 
 ## Modules & Weekly Topics
-1. **Foundations** — key ideas and definitions.
-2. **Core Techniques** — solving standard problems; practice to fluency.
-3. **Applications** — real-world scenarios for this subject.
-4. **Modeling & Interpretation** — assumptions, limits, sensitivity.
-5. **Extensions** — advanced or adjacent topics to explore.
-6. **Applications & Integration** — a small project tying theory to a real scenario.
+1. **Systems & Matrices** — Gaussian elimination, echelon forms.
+2. **Vector Spaces** — basis, rank, dimension.
+3. **Orthogonality** — inner product, projections, Gram-Schmidt.
+4. **Eigen Analysis** — eigenvalues/vectors, diagonalization.
+5. **Applications** — Markov chains, PCA (intro).
+6. **Integration Project** — data-fitting or Markov chain.
 
 ## Resources
-- **Primary Text:** A standard, high-quality text for the field.
-- **Supplemental:** Curated lectures and readings.
-- **Tooling:** Python (Jupyter), spreadsheets, and math tools as relevant.
+- **Primary:** Strang, *Introduction to Linear Algebra*.
+- **Supplemental:** 3Blue1Brown Essence of Linear Algebra series.
+- **Tooling:** Python (NumPy).
 
 ## Assignments & Evaluation
-- **Problem Sets / Labs:** 5–8 sets; practice to fluency.
-- **Project / Case Study:** A short applied project/case.
-- **Integration Task:** Reflect on links to adjacent pillars (1 page).
-- **Weighting:** 50% problem sets, 30% project/case, 20% integration.
+- **Problem Sets:** 6.
+- **Project:** Applied case study.
+- **Integration:** Memo linking to OR/finance/controls.
+- **Weighting:** PS 55%, Project 35%, Integration 10%.
 
 ## Portfolio Output
-- Save final PDFs, code/notebooks, and slides in this course's `portfolio/` folder.
+- Project report + notebook.
