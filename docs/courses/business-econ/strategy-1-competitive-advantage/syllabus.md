@@ -27,3 +27,6 @@
 
 ## Portfolio Output
 - Deck + memo in `portfolio/`.
+
+### Weekly Assignments
+See the 10-week sequence: [/assignments/sequences/strategy-1-competitive-advantage/README.md](/assignments/sequences/strategy-1-competitive-advantage/README.md)
