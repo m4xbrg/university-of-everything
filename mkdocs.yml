@@ -1,17 +1,22 @@
 site_name: University of Everything
 site_description: An integrated curriculum for systems thinkers, engineers, strategists, and humanists.
-repo_url: https://github.com/REPLACE-USER/university-of-everything
+repo_url: https://github.com/m4xbrg/university-of-everything
+
 theme:
   name: material
+  custom_dir: overrides
   features:
     - navigation.expand
     - navigation.sections
     - toc.integrate
     - content.code.copy
+    - search.suggest
+    - search.highlight
   palette:
     - scheme: default
       primary: indigo
       accent: teal
+
 markdown_extensions:
   - admonition
   - toc:
@@ -22,8 +27,17 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.tabbed
   - pymdownx.tasklist
+
 extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+extra_css:
+  - overrides/extra.css
+
+plugins:
+  - search:
+      prebuild_index: true
+
 nav:
   - Home: index.md
   - About:
@@ -33,14 +47,23 @@ nav:
     - Workload Philosophy: handbook/workload-philosophy.md
     - Assessment Standards: handbook/assessment-standards.md
     - Portfolio Guide: handbook/portfolio-guide.md
-  - Catalog:
-    - Overview: catalog/overview.md
-    - By Year:
-      - Year 1: catalog/by-year/year-1.md
-    - By Pillar:
-      - Math & Logic: catalog/by-pillar/math-logic.md
-      - Science & Engineering: catalog/by-pillar/science-engineering.md
-      - Business & Economics: catalog/by-pillar/business-econ.md
-      - Humanities & Civic: catalog/by-pillar/humanities-civic.md
-      - Life / Creativity / Meta: catalog/by-pillar/life-creativity-meta.md
-      - Capstones: catalog/by-pillar/capstones.md
+  - Pillars:
+    - Math & Logic: indexes/math-logic.md
+    - Science & Engineering: indexes/science-engineering.md
+    - Business & Economics: indexes/business-econ.md
+    - Humanities & Civic: indexes/humanities-civic.md
+    - Life / Creativity / Meta: indexes/life-creativity-meta.md
+    - Capstones: indexes/capstones.md
+  - Assignments:
+    - Overview: assignments/README.md
+    - Banks:
+      - Math — Calculus: assignments/banks/math-calculus/
+      - Linear Algebra: assignments/banks/linear-algebra/
+      - Probability: assignments/banks/probability/
+      - Differential Equations: assignments/banks/differential-equations/
+      - Numerical Methods: assignments/banks/numerical-methods/
+      - Physics: assignments/banks/physics/
+      - Engineering: assignments/banks/engineering/
+      - CS: assignments/banks/cs/
+      - Business: assignments/banks/business/
+      - Law & Policy: assignments/banks/law/
