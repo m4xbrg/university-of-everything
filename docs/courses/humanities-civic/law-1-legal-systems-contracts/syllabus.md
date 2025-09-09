@@ -1,32 +1,29 @@
 # Law I: Legal Systems & Contracts
-
 **Pillar:** Humanities & Civic  
-**Purpose:** This course builds core competence for analysis and decision-making across engineering, business, and civic contexts.
+**Purpose:** Introduce legal systems and principles of contract law.
 
 ## Learning Outcomes
-1. Apply core concepts to solve authentic problems.
-2. Analyze and communicate results effectively.
-3. Use appropriate tools and representations (math, code, exhibits).
-4. Connect this subject to adjacent pillars and capstones.
+1. Understand common law vs civil law traditions.
+2. Recognize sources of law and role of courts.
+3. Analyze formation, enforcement, and breach of contracts.
+4. Apply contract law to business and engineering scenarios.
 
 ## Modules & Weekly Topics
-1. **Foundations** — key ideas and definitions.
-2. **Core Techniques** — solving standard problems; practice to fluency.
-3. **Applications** — real-world scenarios for this subject.
-4. **Modeling & Interpretation** — assumptions, limits, sensitivity.
-5. **Extensions** — advanced or adjacent topics to explore.
-6. **Applications & Integration** — a small project tying theory to a real scenario.
+1. **Legal Systems** — common vs civil law, courts.
+2. **Sources of Law** — constitutions, statutes, regulations.
+3. **Contracts Basics** — offer, acceptance, consideration.
+4. **Performance & Breach** — remedies and enforcement.
+5. **Applications** — contracts in business and engineering.
+6. **Integration Project** — contract analysis memo.
 
 ## Resources
-- **Primary Text:** A standard, high-quality text for the field.
-- **Supplemental:** Curated lectures and readings.
-- **Tooling:** Python (Jupyter), spreadsheets, and math tools as relevant.
+- **Primary:** Beatty, Samuelson, *Business Law* (selections).
 
 ## Assignments & Evaluation
-- **Problem Sets / Labs:** 5–8 sets; practice to fluency.
-- **Project / Case Study:** A short applied project/case.
-- **Integration Task:** Reflect on links to adjacent pillars (1 page).
-- **Weighting:** 50% problem sets, 30% project/case, 20% integration.
+- **Case Briefs:** 3–4 short case writeups.
+- **Project:** Contract case analysis.
+- **Integration:** Reflection memo.
+- **Weighting:** Cases 40%, Project 50%, Integration 10%.
 
 ## Portfolio Output
-- Save final PDFs, code/notebooks, and slides in this course's `portfolio/` folder.
+- Case analysis in `portfolio/`.

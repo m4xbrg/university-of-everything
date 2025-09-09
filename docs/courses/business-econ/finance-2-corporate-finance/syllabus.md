@@ -1,32 +1,29 @@
 # Finance II: Corporate Finance
-
 **Pillar:** Business & Economics  
-**Purpose:** This course builds core competence for analysis and decision-making across engineering, business, and civic contexts.
+**Purpose:** Learn how firms make investment and financing decisions.
 
 ## Learning Outcomes
-1. Apply core concepts to solve authentic problems.
-2. Analyze and communicate results effectively.
-3. Use appropriate tools and representations (math, code, exhibits).
-4. Connect this subject to adjacent pillars and capstones.
+1. Analyze financial statements for valuation inputs.
+2. Apply NPV and IRR to investment decisions.
+3. Understand cost of capital and capital structure.
+4. Evaluate dividend policy and corporate governance issues.
 
 ## Modules & Weekly Topics
-1. **Foundations** — key ideas and definitions.
-2. **Core Techniques** — solving standard problems; practice to fluency.
-3. **Applications** — real-world scenarios for this subject.
-4. **Modeling & Interpretation** — assumptions, limits, sensitivity.
-5. **Extensions** — advanced or adjacent topics to explore.
-6. **Applications & Integration** — a small project tying theory to a real scenario.
+1. **Corporate Finance Basics** — firm objectives, stakeholders.
+2. **Capital Budgeting** — NPV, IRR, payback.
+3. **Cost of Capital** — WACC, CAPM links.
+4. **Capital Structure** — debt vs equity.
+5. **Dividends & Payouts** — policies and implications.
+6. **Integration Project** — investment case study.
 
 ## Resources
-- **Primary Text:** A standard, high-quality text for the field.
-- **Supplemental:** Curated lectures and readings.
-- **Tooling:** Python (Jupyter), spreadsheets, and math tools as relevant.
+- **Primary:** Berk & DeMarzo, *Corporate Finance*.
 
 ## Assignments & Evaluation
-- **Problem Sets / Labs:** 5–8 sets; practice to fluency.
-- **Project / Case Study:** A short applied project/case.
-- **Integration Task:** Reflect on links to adjacent pillars (1 page).
-- **Weighting:** 50% problem sets, 30% project/case, 20% integration.
+- **Problem Sets:** 5.
+- **Project:** Firm investment/financing decision analysis.
+- **Integration:** Short memo on capital structure choice.
+- **Weighting:** PS 55%, Project 35%, Integration 10%.
 
 ## Portfolio Output
-- Save final PDFs, code/notebooks, and slides in this course's `portfolio/` folder.
+- Financial model + memo in `portfolio/`.

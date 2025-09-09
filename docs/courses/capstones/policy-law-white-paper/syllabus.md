@@ -1,32 +1,29 @@
 # Capstone III: Policy & Law White Paper
-
 **Pillar:** Capstone  
-**Purpose:** This course builds core competence for analysis and decision-making across engineering, business, and civic contexts.
+**Purpose:** Integrate legal, economic, and strategic thinking in a major research project.
 
 ## Learning Outcomes
-1. Apply core concepts to solve authentic problems.
-2. Analyze and communicate results effectively.
-3. Use appropriate tools and representations (math, code, exhibits).
-4. Connect this subject to adjacent pillars and capstones.
+1. Conduct interdisciplinary research on a policy/legal issue.
+2. Analyze implications for business, government, and society.
+3. Write a persuasive white paper with recommendations.
+4. Communicate findings to expert and non-expert audiences.
 
 ## Modules & Weekly Topics
-1. **Foundations** — key ideas and definitions.
-2. **Core Techniques** — solving standard problems; practice to fluency.
-3. **Applications** — real-world scenarios for this subject.
-4. **Modeling & Interpretation** — assumptions, limits, sensitivity.
-5. **Extensions** — advanced or adjacent topics to explore.
-6. **Applications & Integration** — a small project tying theory to a real scenario.
+1. **Topic Selection & Proposal** — choose issue and scope.
+2. **Research Foundations** — legal sources, policy frameworks.
+3. **Analysis Methods** — case studies, data, models.
+4. **Drafting & Peer Review** — structure, style, feedback.
+5. **Finalization** — editing, executive summary.
+6. **Presentation** — oral defense.
 
 ## Resources
-- **Primary Text:** A standard, high-quality text for the field.
-- **Supplemental:** Curated lectures and readings.
-- **Tooling:** Python (Jupyter), spreadsheets, and math tools as relevant.
+- **Primary:** Policy/white paper writing guides; relevant laws/policies.
 
 ## Assignments & Evaluation
-- **Problem Sets / Labs:** 5–8 sets; practice to fluency.
-- **Project / Case Study:** A short applied project/case.
-- **Integration Task:** Reflect on links to adjacent pillars (1 page).
-- **Weighting:** 50% problem sets, 30% project/case, 20% integration.
+- **Proposal:** 10%.
+- **Drafts & Peer Review:** 20%.
+- **Final Paper:** 50%.
+- **Presentation:** 20%.
 
 ## Portfolio Output
-- Save final PDFs, code/notebooks, and slides in this course's `portfolio/` folder.
+- White paper + slides in `portfolio/`.
