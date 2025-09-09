@@ -1,0 +1,57 @@
+# Merge these into your existing mkdocs.yml
+
+theme:
+  name: material
+  custom_dir: overrides
+  features:
+    - navigation.indexes
+    - navigation.sections
+    - content.code.copy
+    - search.suggest
+    - search.highlight
+  palette:
+    - scheme: default
+
+extra_css:
+  - overrides/extra.css
+
+plugins:
+  - search:
+      prebuild_index: true
+      separator: '[\s\-]+'
+      lang:
+        - en
+      # synonyms help common queries (optional; requires plugin if used)
+      # synonyms:
+      #   calculus: [math]
+      #   finance: [accounting]
+
+nav:
+  - Home: index.md
+  - Pillars:
+    - Math & Logic: indexes/math-logic.md
+    - Science & Engineering: indexes/science-engineering.md
+    - Business & Economics: indexes/business-econ.md
+    - Humanities & Civic: indexes/humanities-civic.md
+    - Life / Creativity / Meta: indexes/life-creativity-meta.md
+    - Capstones: indexes/capstones.md
+  - Assignments:
+    - Overview: assignments/README.md
+    - Banks:
+      - Math — Calculus: assignments/banks/math-calculus/
+      - Linear Algebra: assignments/banks/linear-algebra/
+      - Probability: assignments/banks/probability/
+      - Differential Equations: assignments/banks/differential-equations/
+      - Numerical Methods: assignments/banks/numerical-methods/
+      - Physics: assignments/banks/physics/
+      - Engineering: assignments/banks/engineering/
+      - CS: assignments/banks/cs/
+      - Business: assignments/banks/business/
+      - Law & Policy: assignments/banks/law/
+  - Rubrics:
+    - Problem Set: rubrics/problem-set-rubric.md
+    - Lab Report: rubrics/lab-rubric.md
+    - Engineering Project: rubrics/project-rubric-engineering.md
+    - Case Study: rubrics/case-study-rubric.md
+    - Presentation: rubrics/presentation-rubric.md
+    - Essay: rubrics/essay-rubric.md

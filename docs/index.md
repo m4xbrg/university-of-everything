@@ -1,12 +1,41 @@
 # University of Everything
 
-Welcome. This is a complete, coherent curriculum across six pillars:
+Welcome. Explore by pillar:
 
-- **Math & Logic**
-- **Science & Engineering**
-- **Business & Economics**
-- **Humanities & Civic**
-- **Life / Creativity / Meta**
-- **Capstones (Integration)**
+<div class="pillars">
+  <a class="tile math" href="indexes/math-logic.html">
+    <div class="emoji">∑</div>
+    <div class="title">Math & Logic</div>
+    <div class="desc">Calculus, linear algebra, probability, optimization, discrete math, logic.</div>
+  </a>
+  <a class="tile science" href="indexes/science-engineering.html">
+    <div class="emoji">⚙️</div>
+    <div class="title">Science & Engineering</div>
+    <div class="desc">Physics, mechanical, electrical & computer, civil, industrial, energy systems.</div>
+  </a>
+  <a class="tile business" href="indexes/business-econ.html">
+    <div class="emoji">💹</div>
+    <div class="title">Business & Economics</div>
+    <div class="desc">Finance, micro/macro economics, strategy, operations, entrepreneurship.</div>
+  </a>
+  <a class="tile humanities" href="indexes/humanities-civic.html">
+    <div class="emoji">📜</div>
+    <div class="title">Humanities & Civic</div>
+    <div class="desc">History, law, philosophy, global governance & geopolitics, global challenges.</div>
+  </a>
+  <a class="tile life" href="indexes/life-creativity-meta.html">
+    <div class="emoji">🌱</div>
+    <div class="title">Life / Creativity / Meta</div>
+    <div class="desc">Learning science, storytelling, personal systems, communication.</div>
+  </a>
+  <a class="tile capstones" href="indexes/capstones.html">
+    <div class="emoji">🎓</div>
+    <div class="title">Capstones</div>
+    <div class="desc">Integrative projects that synthesize analysis, design, and leadership.</div>
+  </a>
+</div>
 
-Use the sidebar to browse **Catalog → By Year** or **By Pillar**. Each course page has a syllabus template you can copy, plus folders for lectures, problems, projects, and a portfolio.
+---
+
+### Quick Search
+Try searching for: *calculus*, *linear algebra*, *signals*, *finance*, *strategy*, *law*, *climate*, *storytelling*.

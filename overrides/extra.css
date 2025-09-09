@@ -1,0 +1,11 @@
+.pillars { display:grid; grid-template-columns: repeat(auto-fit,minmax(220px,1fr)); gap:16px; margin:24px 0;}
+.tile { display:block; padding:16px; border-radius:16px; text-decoration:none; border:1px solid var(--md-default-fg-color--lighter); background:var(--md-default-bg-color); }
+.tile .emoji { font-size: 32px; }
+.tile .title { font-size: 18px; font-weight: 700; margin-top: 8px; }
+.tile .desc { font-size: 14px; opacity: 0.8; margin-top: 6px; }
+.tile.math { border-left: 6px solid #3b82f6; }        /* blue */
+.tile.science { border-left: 6px solid #ef4444; }     /* red */
+.tile.business { border-left: 6px solid #10b981; }    /* green */
+.tile.humanities { border-left: 6px solid #8b5cf6; }  /* purple */
+.tile.life { border-left: 6px solid #f59e0b; }        /* yellow */
+.tile.capstones { border-left: 6px solid #6b7280; }   /* gray */
