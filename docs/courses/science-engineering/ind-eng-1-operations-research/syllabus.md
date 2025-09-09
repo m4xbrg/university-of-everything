@@ -1,32 +1,30 @@
 # Industrial Engineering I: Operations Research
-
 **Pillar:** Science & Engineering  
-**Purpose:** This course builds core competence for analysis and decision-making across engineering, business, and civic contexts.
+**Purpose:** Optimize decision-making using mathematical models.
 
 ## Learning Outcomes
-1. Apply core concepts to solve authentic problems.
-2. Analyze and communicate results effectively.
-3. Use appropriate tools and representations (math, code, exhibits).
-4. Connect this subject to adjacent pillars and capstones.
+1. Formulate linear programming models.
+2. Solve optimization problems with simplex and graphical methods.
+3. Understand duality and sensitivity analysis.
+4. Apply OR to scheduling, resource allocation, and logistics.
 
 ## Modules & Weekly Topics
-1. **Foundations** — key ideas and definitions.
-2. **Core Techniques** — solving standard problems; practice to fluency.
-3. **Applications** — real-world scenarios for this subject.
-4. **Modeling & Interpretation** — assumptions, limits, sensitivity.
-5. **Extensions** — advanced or adjacent topics to explore.
-6. **Applications & Integration** — a small project tying theory to a real scenario.
+1. **Introduction to OR** — modeling and problem formulation.
+2. **Linear Programming** — graphical method, simplex basics.
+3. **Duality & Sensitivity** — economic interpretation.
+4. **Applications** — transportation, assignment, scheduling.
+5. **Integer Programming** — intro to binary/integer problems.
+6. **Integration Project** — OR case study with solution.
 
 ## Resources
-- **Primary Text:** A standard, high-quality text for the field.
-- **Supplemental:** Curated lectures and readings.
-- **Tooling:** Python (Jupyter), spreadsheets, and math tools as relevant.
+- **Primary:** Hillier & Lieberman, *Introduction to Operations Research*.
+- **Tooling:** Excel Solver, Python (PuLP).
 
 ## Assignments & Evaluation
-- **Problem Sets / Labs:** 5–8 sets; practice to fluency.
-- **Project / Case Study:** A short applied project/case.
-- **Integration Task:** Reflect on links to adjacent pillars (1 page).
-- **Weighting:** 50% problem sets, 30% project/case, 20% integration.
+- **Problem Sets:** 5.
+- **Project:** Optimization case with solution + memo.
+- **Integration:** Reflection memo.
+- **Weighting:** PS 55%, Project 35%, Integration 10%.
 
 ## Portfolio Output
-- Save final PDFs, code/notebooks, and slides in this course's `portfolio/` folder.
+- OR model + case report in `portfolio/`.

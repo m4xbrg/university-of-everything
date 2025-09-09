@@ -1,32 +1,30 @@
-# Civil Engineering II: Environmental & Sustainability Engineering
-
+# Civil Engineering II: Environmental & Sustainability
 **Pillar:** Science & Engineering  
-**Purpose:** This course builds core competence for analysis and decision-making across engineering, business, and civic contexts.
+**Purpose:** Study environmental systems and sustainable infrastructure.
 
 ## Learning Outcomes
-1. Apply core concepts to solve authentic problems.
-2. Analyze and communicate results effectively.
-3. Use appropriate tools and representations (math, code, exhibits).
-4. Connect this subject to adjacent pillars and capstones.
+1. Understand water and wastewater treatment basics.
+2. Analyze environmental impacts of civil projects.
+3. Apply life-cycle assessment (LCA) methods.
+4. Propose sustainable design strategies.
 
 ## Modules & Weekly Topics
-1. **Foundations** — key ideas and definitions.
-2. **Core Techniques** — solving standard problems; practice to fluency.
-3. **Applications** — real-world scenarios for this subject.
-4. **Modeling & Interpretation** — assumptions, limits, sensitivity.
-5. **Extensions** — advanced or adjacent topics to explore.
-6. **Applications & Integration** — a small project tying theory to a real scenario.
+1. **Environmental Engineering Basics** — water quality, pollutants.
+2. **Treatment Processes** — water/wastewater treatment.
+3. **Air Quality & Climate Links** — emissions, impacts.
+4. **Sustainable Infrastructure** — green building, transportation.
+5. **Life-Cycle Assessment** — methods and applications.
+6. **Integration Project** — sustainability assessment.
 
 ## Resources
-- **Primary Text:** A standard, high-quality text for the field.
-- **Supplemental:** Curated lectures and readings.
-- **Tooling:** Python (Jupyter), spreadsheets, and math tools as relevant.
+- **Primary:** Mihelcic, *Fundamentals of Environmental Engineering*.
+- **Tooling:** Spreadsheets, LCA software (intro).
 
 ## Assignments & Evaluation
-- **Problem Sets / Labs:** 5–8 sets; practice to fluency.
-- **Project / Case Study:** A short applied project/case.
-- **Integration Task:** Reflect on links to adjacent pillars (1 page).
-- **Weighting:** 50% problem sets, 30% project/case, 20% integration.
+- **Problem Sets:** 4.
+- **Project:** LCA report or sustainability plan.
+- **Integration:** Reflection memo.
+- **Weighting:** PS 40%, Project 50%, Integration 10%.
 
 ## Portfolio Output
-- Save final PDFs, code/notebooks, and slides in this course's `portfolio/` folder.
+- LCA report in `portfolio/`.
