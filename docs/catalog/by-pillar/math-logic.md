@@ -1,6 +1,6 @@
 # Math & Logic
 
-- Calculus I, II, Multivariable
+- Calculus I, Calculus II, Multivariable Calculus
 - Linear Algebra I
 - Probability & Statistics I–II
 - Differential Equations I

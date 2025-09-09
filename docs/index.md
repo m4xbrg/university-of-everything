@@ -1,6 +1,7 @@
 # University of Everything
 
 Welcome. This is a complete, coherent curriculum across six pillars:
+
 - **Math & Logic**
 - **Science & Engineering**
 - **Business & Economics**
@@ -8,4 +9,4 @@ Welcome. This is a complete, coherent curriculum across six pillars:
 - **Life / Creativity / Meta**
 - **Capstones (Integration)**
 
-Use the sidebar for **Catalog → By Year** or **By Pillar** to navigate. Each course page has a syllabus, modules, resources, and assignments. Every course outputs artifacts into a **Portfolio**.
+Use the sidebar to browse **Catalog → By Year** or **By Pillar**. Each course page has a syllabus template you can copy, plus folders for lectures, problems, projects, and a portfolio.

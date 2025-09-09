@@ -1,17 +1,17 @@
 site_name: University of Everything
 site_description: An integrated curriculum for systems thinkers, engineers, strategists, and humanists.
-repo_url: https://github.com/YOUR-USER/university-of-everything
+repo_url: https://github.com/REPLACE-USER/university-of-everything
 theme:
   name: material
-  logo: _assets/images/logo.png
-  favicon: _assets/images/logo.png
   features:
     - navigation.expand
     - navigation.sections
     - toc.integrate
     - content.code.copy
-    - search.suggest
-    - search.highlight
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: teal
 markdown_extensions:
   - admonition
   - toc:
@@ -37,11 +37,6 @@ nav:
     - Overview: catalog/overview.md
     - By Year:
       - Year 1: catalog/by-year/year-1.md
-      - Year 2: catalog/by-year/year-2.md
-      - Year 3: catalog/by-year/year-3.md
-      - Year 4: catalog/by-year/year-4.md
-      - Year 5: catalog/by-year/year-5.md
-      - Year 6: catalog/by-year/year-6.md
     - By Pillar:
       - Math & Logic: catalog/by-pillar/math-logic.md
       - Science & Engineering: catalog/by-pillar/science-engineering.md
@@ -49,22 +44,3 @@ nav:
       - Humanities & Civic: catalog/by-pillar/humanities-civic.md
       - Life / Creativity / Meta: catalog/by-pillar/life-creativity-meta.md
       - Capstones: catalog/by-pillar/capstones.md
-  - Courses:
-    - Math & Logic:
-      - Calculus I (Syllabus): courses/math-logic/calculus-1/syllabus.md
-      - Linear Algebra I (Syllabus): courses/math-logic/linear-algebra-1/syllabus.md
-    - Science & Engineering:
-      - Physics I: Mechanics (Syllabus): courses/science-engineering/physics-1-mechanics/syllabus.md
-      - ME I: Statics & Dynamics (Syllabus): courses/science-engineering/mech-eng-1-statics-dynamics/syllabus.md
-      - ECE I: Circuits (Syllabus): courses/science-engineering/ece-1-circuits/syllabus.md
-      - IE I: Operations Research (Syllabus): courses/science-engineering/ind-eng-1-operations-research/syllabus.md
-    - Business & Economics:
-      - Corporate Finance (Syllabus): courses/business-econ/corporate-finance/syllabus.md
-      - Strategy I: Competitive Advantage (Syllabus): courses/business-econ/strategy-1-competitive-advantage/syllabus.md
-    - Humanities & Civic:
-      - Political Science I (Syllabus): courses/humanities-civic/political-science-1-comparative/syllabus.md
-      - Law I: Legal Systems & Contracts (Syllabus): courses/humanities-civic/law-1-legal-systems-contracts/syllabus.md
-    - Life / Creativity / Meta:
-      - Meta-Learning I: Systems Thinking (Syllabus): courses/life-creativity-meta/meta-learning-1-systems/syllabus.md
-    - Capstones:
-      - Engineering Systems Design: courses/capstones/engineering-systems-design/syllabus.md
