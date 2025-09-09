@@ -1,32 +1,29 @@
 # History II: Medieval & Early Modern
-
 **Pillar:** Humanities & Civic  
-**Purpose:** This course builds core competence for analysis and decision-making across engineering, business, and civic contexts.
+**Purpose:** Explore the transformation from medieval orders to early modern states, science, and commerce.
 
 ## Learning Outcomes
-1. Apply core concepts to solve authentic problems.
-2. Analyze and communicate results effectively.
-3. Use appropriate tools and representations (math, code, exhibits).
-4. Connect this subject to adjacent pillars and capstones.
+1. Outline key institutions: church, feudalism, guilds, states.
+2. Explain causes and effects of the Renaissance, Reformation, and Scientific Revolution.
+3. Trace the rise of global trade and colonial empires.
+4. Evaluate primary sources using historical method.
 
 ## Modules & Weekly Topics
-1. **Foundations** — key ideas and definitions.
-2. **Core Techniques** — solving standard problems; practice to fluency.
-3. **Applications** — real-world scenarios for this subject.
-4. **Modeling & Interpretation** — assumptions, limits, sensitivity.
-5. **Extensions** — advanced or adjacent topics to explore.
-6. **Applications & Integration** — a small project tying theory to a real scenario.
+1. **Medieval Orders** — church, feudalism, urban growth.
+2. **Renaissance & Humanism** — art, learning, politics.
+3. **Reformation & Wars of Religion** — ideas and conflict.
+4. **Scientific Revolution** — method, institutions.
+5. **Early Modern States & Trade** — mercantilism, empires.
+6. **Integration Project** — source-based essay on transformation.
 
 ## Resources
-- **Primary Text:** A standard, high-quality text for the field.
-- **Supplemental:** Curated lectures and readings.
-- **Tooling:** Python (Jupyter), spreadsheets, and math tools as relevant.
+- **Primary:** Tuchman; Harari (selections); source packets.
 
 ## Assignments & Evaluation
-- **Problem Sets / Labs:** 5–8 sets; practice to fluency.
-- **Project / Case Study:** A short applied project/case.
-- **Integration Task:** Reflect on links to adjacent pillars (1 page).
-- **Weighting:** 50% problem sets, 30% project/case, 20% integration.
+- **Source Analyses:** 3 short writeups.
+- **Project:** Research essay (6–8 pages).
+- **Integration:** Reflection on modern institutions.
+- **Weighting:** Sources 30%, Project 60%, Integration 10%.
 
 ## Portfolio Output
-- Save final PDFs, code/notebooks, and slides in this course's `portfolio/` folder.
+- Essay + notes in `portfolio/`.

@@ -3,27 +3,26 @@
 **Purpose:** Link operations levers to financial outcomes and strategy.
 
 ## Learning Outcomes
-1. Diagnose bottlenecks; compute capacity and takt time.
-2. Design process improvements using Lean basics.
-3. Build simple financial models of ops changes (P&L impact).
-4. Communicate recommendations with clear exhibits.
+1. Map processes, diagnose bottlenecks, and compute capacity.
+2. Apply Lean and basic quality tools to improve flow.
+3. Model the financial impact of ops changes (P&L, working capital).
+4. Build and communicate a coherent operations plan.
 
 ## Modules & Weekly Topics
-1. **Process Mapping** — value stream; bottlenecks; Little’s Law.
-2. **Capacity & Flow** — takt; variability; queue intuition.
-3. **Lean & Quality** — waste types; control charts (survey).
-4. **Supply Chain Finance** — working capital; cash conversion cycle.
-5. **Change Management** — stakeholder analysis; sequencing.
-6. **Integration** — case: operations redesign + CFO memo.
+1. **Process Mapping** — value stream, Little’s Law.
+2. **Capacity & Flow** — bottlenecks, variability.
+3. **Lean & Quality** — wastes, control charts (intro).
+4. **Supply Chain Finance** — CCC, working capital.
+5. **Change Management** — stakeholders, sequencing.
+6. **Integration Project** — operations redesign + CFO memo.
 
 ## Resources
 - **Primary:** Hopp & Spearman; lean primers.
-- **Tooling:** Spreadsheets; Python optional.
 
 ## Assignments & Evaluation
-- **Cases/PS:** 5 mixed assignments.
+- **Mixed Assignments:** 5.
 - **Project:** Redesign case (slides + model).
-- **Integration:** CFO memo (1–2 pages).
+- **Integration:** CFO memo.
 - **Weighting:** Assignments 50%, Project 40%, Integration 10%.
 
 ## Portfolio Output

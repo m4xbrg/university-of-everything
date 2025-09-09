@@ -1,32 +1,29 @@
 # History I: Ancient Civilizations
-
 **Pillar:** Humanities & Civic  
-**Purpose:** This course builds core competence for analysis and decision-making across engineering, business, and civic contexts.
+**Purpose:** Survey major ancient civilizations and their institutions, technologies, and ideas.
 
 ## Learning Outcomes
-1. Apply core concepts to solve authentic problems.
-2. Analyze and communicate results effectively.
-3. Use appropriate tools and representations (math, code, exhibits).
-4. Connect this subject to adjacent pillars and capstones.
+1. Identify key developments in Mesopotamia, Egypt, Indus, China, Greece, and Rome.
+2. Explain how institutions, trade, and technology shaped societies.
+3. Analyze primary sources with historical method.
+4. Connect ancient patterns to modern governance and strategy.
 
 ## Modules & Weekly Topics
-1. **Foundations** — key ideas and definitions.
-2. **Core Techniques** — solving standard problems; practice to fluency.
-3. **Applications** — real-world scenarios for this subject.
-4. **Modeling & Interpretation** — assumptions, limits, sensitivity.
-5. **Extensions** — advanced or adjacent topics to explore.
-6. **Applications & Integration** — a small project tying theory to a real scenario.
+1. **Origins & State Formation** — agriculture, cities.
+2. **Near East & Egypt** — law codes, engineering feats.
+3. **South Asia & China** — empires, bureaucracy, philosophy.
+4. **Greece** — polis, democracy, warfare.
+5. **Rome** — republic to empire; law and administration.
+6. **Integration Project** — primary-source analysis + comparative essay.
 
 ## Resources
-- **Primary Text:** A standard, high-quality text for the field.
-- **Supplemental:** Curated lectures and readings.
-- **Tooling:** Python (Jupyter), spreadsheets, and math tools as relevant.
+- **Primary:** Beard; Scarre; primary source packets.
 
 ## Assignments & Evaluation
-- **Problem Sets / Labs:** 5–8 sets; practice to fluency.
-- **Project / Case Study:** A short applied project/case.
-- **Integration Task:** Reflect on links to adjacent pillars (1 page).
-- **Weighting:** 50% problem sets, 30% project/case, 20% integration.
+- **Source Analyses:** 3 short writeups.
+- **Project:** Comparative essay (6–8 pages).
+- **Integration:** Reflection on modern parallels.
+- **Weighting:** Sources 30%, Project 60%, Integration 10%.
 
 ## Portfolio Output
-- Save final PDFs, code/notebooks, and slides in this course's `portfolio/` folder.
+- Essay + source notes in `portfolio/`.
